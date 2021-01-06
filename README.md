@@ -6,7 +6,7 @@ First of all, intended for my personal use. A bit of frenglish (sorry about that
 
 # Preview
 
-![Preview Video](https://github.com/yeKcim/my_optics_blend/blob/main/PREVIEW.webm)
+![Preview Video](https://github.com/yeKcim/my_optics_blend/blob/main/PREVIEW.webm?raw=true)
 
 # Asset Manager
 
