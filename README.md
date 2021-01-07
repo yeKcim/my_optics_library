@@ -13,8 +13,7 @@ First of all, intended for my personal use. A bit of frenglish (sorry about that
 I don't know… WTFPL or CC? Is that useful to define a license while no one but me will use these files?
 
 * **paul_lobe_haus_2k.jpg**: CC0 [from hdrihaven](https://hdrihaven.com/hdri/\?h\=paul_lobe_haus)
-* **diode_control_koheron.blend** and **loop filter.blend** are based on [koheron](https://www.koheron.com/) step files, I have to contact them!!
-
+* **diode control koheron** and **loop filter** are based on [koheron](https://www.koheron.com/) step files, I have to contact them (or redone all from scratch)!!
 
 # Other libraries
 
