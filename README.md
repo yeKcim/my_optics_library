@@ -24,4 +24,4 @@ I don't know… WTFPL or CC? Is that useful to define a license while no one but
 # Todo
 
 * Have to look at [Asset Manager](https://code.blender.org/2020/03/asset-manager/)
-
+* Share my own Inkscape library
