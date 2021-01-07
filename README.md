@@ -6,7 +6,9 @@ First of all, intended for my personal use. A bit of frenglish (sorry about that
 
 # Preview
 
-![Preview Video](https://raw.githubusercontent.com/yeKcim/my_optics_blend/main/PREVIEW.gif)
+![Preview pic](https://raw.githubusercontent.com/yeKcim/my_optics_blend/main/preview.jpg)
+
+![Preview video](https://raw.githubusercontent.com/yeKcim/my_optics_blend/main/preview.gif)
 
 # License
 
